@@ -11,3 +11,20 @@ git merge main
 
 git checkout staging
 git merge main
+
+
+
+
+#Fork
+
+git clone el-proyecto-forkeado
+Crear una branch
+
+git checkout -b nombre-branc
+agregen un archivo
+
+git add .
+git commit -m "commit"
+
+git push
+
